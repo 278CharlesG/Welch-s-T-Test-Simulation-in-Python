@@ -5,7 +5,7 @@ This is a sample program that simulates a series of statistical methods and data
 ##  Project Overview
 Using the "Red Wine Quality" dataset as a target, this program demonstrates how to use Python to explore the statistical relationship between chemical properties and sensory quality scores. It automates complex calculations, providing a streamlined workflow from raw data to statistical conclusions.
 
-##  Key Features
+##  Main Content
 1.  **Data Loading & Slicing**: Demonstrates how to handle CSV files with semicolon (`;`) delimiters using `pandas` and how to segment data based on specific criteria.
 2.  **Descriptive Statistics**: Automatically extracts the Mean, Median, and Quartiles for specific columns.
 3.  **Boxplot Analysis**: Generates boxplots to visually compare data distributions and identify shifts in the "center" of the data between groups.
