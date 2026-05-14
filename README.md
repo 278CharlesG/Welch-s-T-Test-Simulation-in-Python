@@ -1,4 +1,4 @@
-# Python Statistical Analysis & Visualization Simulation (Red Wine Quality)
+# Python Statistical Analysis & Visualization Simulation 
 
 This is a sample program that simulates a series of statistical methods and data visualizations using Python. It serves as an educational reference for learning data preprocessing, descriptive statistics, and hypothesis testing.
 
@@ -12,6 +12,8 @@ Using the "Red Wine Quality" dataset as a target, this program demonstrates how 
 4.  **Normality Check (QQ-Plot)**: Utilizes Quantile-Quantile plots to determine if the data follows a Normal Distribution, which is a prerequisite for many parametric tests.
 5.  **Hypothesis Testing (Welch's T-Test)**: Simulates a Welch's T-Test to compare means between groups with unequal variances, providing a rigorous mathematical basis for the findings.
 6.  **Result Verification**: Cross-validates the hypothesis testing results with quality score frequencies and boxplot summaries to ensure program accuracy.
+
+Dataset Source: [UCI Machine Learning Repository - Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 ##  Environment Dependencies
 To run this program, you will need the following Python modules:pandas；matplotlib.pyplot；scipy.stats
